@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\Lorik Mucolli\\Desktop\\gtaV project\\Marioo\\pygta5-car-fast-0.001-alexnetv2-10-epochs-300K-data.model"
+all_model_checkpoint_paths: "C:\\Users\\Lorik Mucolli\\Desktop\\gtaV project\\Marioo\\pygta5-car-fast-0.001-alexnetv2-10-epochs-300K-data.model"
